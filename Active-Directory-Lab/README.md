@@ -1,7 +1,7 @@
 # Active Directory Home Lab
 
 ## Overview
-Built a Windows Server 2025 Domain Controller in VirtualBox to create a functional Active Directory environment for hands-on learning and skill development.
+Built a Windows Server 2022 Domain Controller in VirtualBox to create a functional Active Directory environment for hands-on learning and skill development.
 
 ## Environment
 - **Hypervisor:** Oracle VirtualBox 7.2.6
